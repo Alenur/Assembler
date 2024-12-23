@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<memory>
+  <cell address="0" value="9"/>
+  <cell address="1" value="16"/>
+  <cell address="2" value="25"/>
+  <cell address="3" value="36"/>
+  <cell address="4" value="49"/>
+  <cell address="5" value="64"/>
+  <cell address="6" value="81"/>
+  <cell address="7" value="0"/>
+  <cell address="8" value="0"/>
+  <cell address="9" value="0"/>
+</memory>

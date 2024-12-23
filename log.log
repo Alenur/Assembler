@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<log>
+  <instruction command="LOAD" A="134" B="0" C="9"/>
+  <instruction command="LOAD" A="134" B="1" C="16"/>
+  <instruction command="LOAD" A="134" B="2" C="25"/>
+  <instruction command="LOAD" A="134" B="3" C="36"/>
+  <instruction command="LOAD" A="134" B="4" C="49"/>
+  <instruction command="LOAD" A="134" B="5" C="64"/>
+  <instruction command="LOAD" A="134" B="6" C="81"/>
+  <instruction command="SQRT" A="127" B="10" C="0"/>
+  <instruction command="SQRT" A="127" B="11" C="1"/>
+  <instruction command="SQRT" A="127" B="12" C="2"/>
+  <instruction command="SQRT" A="127" B="13" C="3"/>
+  <instruction command="SQRT" A="127" B="14" C="4"/>
+  <instruction command="SQRT" A="127" B="15" C="5"/>
+  <instruction command="SQRT" A="127" B="16" C="6"/>
+</log>
